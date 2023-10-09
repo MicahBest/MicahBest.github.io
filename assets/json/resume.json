@@ -42,8 +42,8 @@
       "url": "https://engineering.tamu.edu/",
       "area": "Mechanical Engineering",
       "studyType": "Bachelor of Science",
-      "startDate": "2019-01-01",
-      "endDate": "2023-01-01",
+      "startDate": "2019",
+      "endDate": "2023",
       "score": "3.0",
       "courses": []
     },
@@ -52,8 +52,8 @@
       "url": "https://engineering.tamu.edu/",
       "area": "Nuclear Engineering",
       "studyType": "Master of Science",
-      "startDate": "2023-01-01",
-      "endDate": "2025-01-01",
+      "startDate": "2023",
+      "endDate": "2025",
       "score": "",
       "courses": []
     }
