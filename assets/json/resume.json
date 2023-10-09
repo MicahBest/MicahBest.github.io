@@ -31,7 +31,7 @@
       "endDate": "Present",
       "summary": "I am currently working for the Nuclear Research Department at Texas A&M University. I will continue the work from my summer research internship at the University of Texas developing a program called \"SyTH\". This program aims to analyze and visualize 3D meshes of the thermal hydraulic system of the Molten Salt Research Reactor.",
       "highlights": [
-        "Thermal Hydraulics", "Heat Transfer", "Fluid Mechanics", "Finite Element Analysis", "Python", "C++", "Ansys Fluent", "VTK", "Nuclear Engineering"
+        "Thermal Hydraulics", "Heat Transfer", "Fluid Mechanics", "Finite Element Analysis", "Python", "C++"
       ]
     }
   ],
@@ -41,10 +41,20 @@
       "institution": "Texas A&M University",
       "url": "https://engineering.tamu.edu/",
       "area": "Mechanical Engineering",
-      "studyType": "B.S.",
-      "startDate": "2019-08-01",
-      "endDate": "2023-12-01",
+      "studyType": "Bachelor of Science",
+      "startDate": "2019-01-01",
+      "endDate": "2023-01-01",
       "score": "3.0",
+      "courses": []
+    },
+    {
+      "institution": "Texas A&M University",
+      "url": "https://engineering.tamu.edu/",
+      "area": "Nuclear Engineering",
+      "studyType": "Master of Science",
+      "startDate": "2023-01-01",
+      "endDate": "2025-01-01",
+      "score": "",
       "courses": []
     }
   ],
