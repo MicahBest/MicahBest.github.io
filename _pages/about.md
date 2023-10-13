@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Texas A&M University</p>
-    <p>400 Bizzell St.</p>
+    <p>3123 TAMU</p>
     <p>College Station, TX 77843</p>
 
 news: false  # includes a list of news items
