@@ -19,6 +19,11 @@
         "network": "LinkedIn",
         "username": "micah-best",
         "url": "https://www.linkedin.com/in/micah-best/"
+      },
+      {
+        "network": "Kaggle",
+        "username": "micahbest",
+        "url": "https://www.kaggle.com/micahbest"
       }
     ]
   },
