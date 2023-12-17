@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Research Assistant at Texas A&M University
+subtitle: Graduate Research Assistant at Texas A&M University
 
 profile:
   align: right
