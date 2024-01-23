@@ -30,6 +30,16 @@
   "work": [
     {
       "name": "Department of Nuclear Engineering, Texas A&M University",
+      "position": "Graduate Research Assistant",
+      "url": "https://engineering.tamu.edu/nuclear/index.html",
+      "startDate": "2024-01",
+      "summary": "My graduate research is primarily focused on the development of SyTH, which aims to analyze and visualize 3D meshes of the thermal hydraulic system of the Molten Salt Research Reactor.",
+      "highlights": [
+        "Thermal Hydraulics", "Heat Transfer", "Fluid Mechanics", "Finite Element Analysis", "Python", "C++"
+      ]
+    },
+    {
+      "name": "Department of Nuclear Engineering, Texas A&M University",
       "position": "Undergraduate Research Assistant",
       "url": "https://engineering.tamu.edu/nuclear/index.html",
       "startDate": "2022-08",
